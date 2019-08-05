@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190728",
-  "data_url": "./data.jx3dat",
+  "name": "【南宫伯】PVE团队监控数据(更新日期190806)(已更新巨冥湾1-3数据)",
+  "author": "南宫伯",
+  "version": "2019080601",
+  "data_url": "./TM-zhcn-20190806_00.59.jx3dat",
   "about": "../README.md"
 }
