@@ -1,7 +1,13 @@
 {
-  "name": "默認數據",
-  "author": "默認",
-  "version": "20190812",
-  "data_url": "./data.jx3dat",
-  "about": "../README.md"
+  "name": "【南宮伯】本數據更新慢，新數據請訂閱：nangongbo@aliyun",
+  "author": "南宮伯",
+  "version": "2020010601",
+  "data_url": "./TM-zhtw-20200106_20.55.jx3dat",
+  "about": "https://www.jx3box.com/jx3dat/90/"
 }
+//【Github】
+//"name": "【南宮伯】本數據更新慢，新數據請訂閱：nangongbo@gitee",
+//【阿里雲@aliyun】
+//"name": "【南宮伯】PVE數據(20010601版) 備用：nangongbo@gitee",
+//【碼雲@gitee】
+//"name": "【南宮伯】PVE數據(20010601版) 備用：nangongbo@aliyun",
